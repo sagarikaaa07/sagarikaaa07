@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Sagarika+Das
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Sagarika+Das)
 
 
 # 💫 About Me:
