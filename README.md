@@ -1,3 +1,6 @@
+## Heloo I'm Sagarika Das 👋
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>     Frontend development projects using HTML, CSS, and JavaScript.<br><br>👯 I’m looking to collaborate on:<br>     Beginner-friendly **web development and open-source projects**.<br><br>🤝 I’m looking for help with:<br>     currently Improving my technical skills and building real-world projects.<br><br>🌱 I’m currently learning:<br>      React.js, DBMS,  Data Structures and problem-solving techniques.<br><br>💬 Ask me about:<br>    Basic **programming, web development, and GitHub**.<br><br>⚡ Fun fact:<br>    I enjoy solving coding problems and learning new technologies every day.
 
