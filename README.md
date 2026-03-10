@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!!+I'm+Sagarika+Das.)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!!%20I'm%20Sagarika%20Das.&fontSize=40&fontAlignY=40&animation=fadeIn"/>
+</p>
 
 
 # 💫 About Me:
